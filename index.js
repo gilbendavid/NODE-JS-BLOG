@@ -33,5 +33,6 @@ app.get('/contact',(req,res)=>{
 app.listen(4000,()=>{
     //comment message
     console.log('app listening on port 4000')
+    console.log('Gil App')
 })
 
